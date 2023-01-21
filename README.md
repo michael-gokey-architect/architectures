@@ -21,3 +21,17 @@ https://github.com/joeldenning/coexisting-angular-microfrontends
 
 https://github.com/angular-microfrontends
 
+https://levelup.gitconnected.com/your-first-angular-microfrontend-58950768a465
+
+https://www.linkedin.com/pulse/how-implement-micro-frontends-architect-using-angular-frank-he/
+
+Okay, lets give this one a try next,
+
+https://incora.software/insights/micro-frontend-based-on-angular
+
+
+maybe buy the book
+https://livebook.manning.com/book/micro-frontends-in-action/welcome/v-4/
+
+
+https://www.angulararchitects.io/en/aktuelles/6-steps-to-your-angular-based-microfrontend-shell/
