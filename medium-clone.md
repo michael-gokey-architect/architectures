@@ -12,3 +12,10 @@ Choose a name:
 1. [ ] channels
 1. [ ] causeway
 1. [ ] juice
+
+
+### Short Feature List
+1. Write/edit/read articles (CRUD)
+1. Authentication with JWT
+1. Profiles with images
+1. Comments on articles
